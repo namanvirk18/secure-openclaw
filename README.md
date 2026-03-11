@@ -1,7 +1,8 @@
 <div align="center">
-  <img src="https://github.com/namanvirk18/secure-openclaw/blob/master/assets/composio-removebg-preview.png?raw=true" alt="Composio Logo" width="300" style="margin-bottom: 0px;">
 
-<h1 style="margin: 5px 0 10px 0; border: none;">Secure OpenClaw</h1>
+<img src="https://github.com/namanvirk18/secure-openclaw/blob/master/assets/composio-removebg-preview.png?raw=true" alt="Composio Logo" width="300">
+
+# Secure OpenClaw
 
 <a href="https://docs.composio.dev/tool-router/overview">
   <img src="https://img.shields.io/badge/Composio-Tool%20Router-orange" alt="Composio">
@@ -16,7 +17,7 @@
   <img src="https://img.shields.io/badge/Follow%20on-X-black?logo=x&logoColor=white" alt="Follow on X">
 </a>
 
-<p style="max-width: 900px; margin: 20px auto; text-align: left;">Self-hosted AI assistant running 24/7 on messaging platforms, connecting to 500+ apps without exposing credentials.</p>
+Self-hosted AI assistant running 24/7 on messaging platforms, connecting to 500+ apps without exposing credentials.
 
 <img src="https://github.com/namanvirk18/secure-openclaw/blob/master/assets/secure-openclaw.gif?raw=true" alt="Secure OpenClaw Demo">
 
