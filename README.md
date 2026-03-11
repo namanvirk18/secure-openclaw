@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://github.com/namanvirk18/secure-openclaw/blob/master/assets/composio-removebg-preview.png?raw=true" alt="Composio Logo" width="300" style="margin-bottom: -20px;">
+<img src="https://github.com/namanvirk18/secure-openclaw/blob/master/assets/composio-logo-removebg-new.png?raw=true" alt="Composio Logo" width="300" style="margin-bottom: -20px;">
 
 # Secure OpenClaw
 
