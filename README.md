@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://github.com/namanvirk18/secure-openclaw/blob/master/assets/composio-removebg-preview.png?raw=true" alt="Composio Logo" width="300" style="margin-bottom: 5px;">
+  <img src="https://github.com/namanvirk18/secure-openclaw/blob/master/assets/composio-removebg-preview.png?raw=true" alt="Composio Logo" width="300" style="margin-bottom: 0px;">
 
 <h1 style="margin: 5px 0 10px 0; border: none;">Secure OpenClaw</h1>
 
